@@ -15,6 +15,7 @@
 		72F55F1326FAF19D0023430E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72F55F1126FAF19D0023430E /* LaunchScreen.storyboard */; };
 		72F55F1E26FAF19D0023430E /* flixsterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72F55F1D26FAF19D0023430E /* flixsterTests.swift */; };
 		72F55F2926FAF19D0023430E /* flixsterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72F55F2826FAF19D0023430E /* flixsterUITests.swift */; };
+		72F55F3726FAF2C00023430E /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72F55F3626FAF2C00023430E /* MoviesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		72F55F2426FAF19D0023430E /* flixsterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = flixsterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		72F55F2826FAF19D0023430E /* flixsterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flixsterUITests.swift; sourceTree = "<group>"; };
 		72F55F2A26FAF19D0023430E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		72F55F3626FAF2C00023430E /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				72F55F0F26FAF19D0023430E /* Assets.xcassets */,
 				72F55F1126FAF19D0023430E /* LaunchScreen.storyboard */,
 				72F55F1426FAF19D0023430E /* Info.plist */,
+				72F55F3626FAF2C00023430E /* MoviesViewController.swift */,
 			);
 			path = flixster;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				72F55F0B26FAF19B0023430E /* ViewController.swift in Sources */,
 				72F55F0726FAF19B0023430E /* AppDelegate.swift in Sources */,
 				72F55F0926FAF19B0023430E /* SceneDelegate.swift in Sources */,
+				72F55F3726FAF2C00023430E /* MoviesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
